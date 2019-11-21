@@ -1,9 +1,9 @@
-package dir1
+package dir0
 
 import (
     "fmt"
 )
 
 func Echo() {
-    fmt.Println("this is dir1.")
+    fmt.Println("this is dir0.")
 }
