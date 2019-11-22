@@ -1,4 +1,4 @@
-package dir0
+package mod
 
 import (
     "fmt"
