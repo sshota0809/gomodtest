@@ -5,5 +5,5 @@ import (
 )
 
 func Echo() {
-    fmt.Println("this is dir0.")
+    fmt.Println("v2.0.2")
 }
