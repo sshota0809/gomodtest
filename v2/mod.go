@@ -5,5 +5,5 @@ import (
 )
 
 func Echo() {
-    fmt.Println("v2.1.0")
+    fmt.Println("v2.1.1")
 }
